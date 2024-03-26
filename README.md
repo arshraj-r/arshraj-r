@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arshraj Randhawa</h1>
-<img align="center" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJoaDN0YnoxeXk5ajVoZXVtNm9kZ2Q4dDBybXEzNWluNDV5cXQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.gif">
+<img align="center" alt="Coding" width="800" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJoaDN0YnoxeXk5ajVoZXVtNm9kZ2Q4dDBybXEzNWluNDV5cXQ3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qrrHSsrK9xpknGVNF/giphy.gif">
 <h3 align="center">Welcome to my GitHub! I'm a passionate data scientist with a focus on Natural Language Processing (NLP) and cutting-edge techniques in machine learning. My work primarily revolves around harnessing the capabilities of large language models like BERT for text classification tasks. Join me on this journey as we explore the realms of language understanding and unlock insights from data like never before. Let's innovate and create together! 🚀 #DataScience #NLP #MachineLearning #BERTFineTuning 📊🔍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arshraj-r&label=Profile%20views&color=0e75b6&style=flat" alt="arshraj-r" /> </p>
